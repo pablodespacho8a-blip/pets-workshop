@@ -14,9 +14,9 @@
     "test:e2e:chromium": "playwright test --project=chromium"
   },
   "dependencies": {
-    "@astrojs/node": "^11.1.11",
+    "@astrojs/node": "^11.1.13",
     "@tailwindcss/vite": "^4.3.5",
-    "astro": "^7.4.7",
+    "astro": "^7.4.12",
     "esbuild-wasm": "^0.28.2",
     "typescript": "^7.0.2"
   },
